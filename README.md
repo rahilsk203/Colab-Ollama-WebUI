@@ -21,7 +21,7 @@ Run large language models (LLMs) locally in your browser using Google Colab's GP
 - Web UI will auto-load in Ngrok URL (see last cell output)
 
 ## ⚡ Quick Start (Colab)
-1. Click the [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)] button
+1. Click the [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PP44Wq46N8jFisKiIiHzVGgvA6XOnZ60?usp=sharing) button
 2. In Colab: **Runtime > Run All** (Ctrl+F9)
 3. Monitor progress in cell outputs
 4. **Final Step** will show your Web UI URL:
