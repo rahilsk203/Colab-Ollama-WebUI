@@ -1,4 +1,4 @@
-markdown
+
 # 🚀 Ollama WebUI on Google Colab
 
 [![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1PP44Wq46N8jFisKiIiHzVGgvA6XOnZ60?usp=sharing)
