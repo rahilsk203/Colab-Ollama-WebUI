@@ -1,7 +1,7 @@
 ```markdown
 # 🚀 Ollama WebUI on Google Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PP44Wq46N8jFisKiIiHzVGgvA6XOnZ60?usp=sharing)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1PP44Wq46N8jFisKiIiHzVGgvA6XOnZ60?usp=sharing)
 [![GitHub Stars](https://img.shields.io/github/stars/rahilsk203/Colab-Ollama-WebUI?style=social)](https://github.com/rahilsk203/Colab-Ollama-WebUI)
 
 Run large language models (LLMs) locally in your browser using Google Colab's GPU - **No installations required!**
